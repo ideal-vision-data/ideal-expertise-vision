@@ -1,10 +1,10 @@
 
 # 🚀 Ideal Expertise Vision
-### Boubacar Fall | Data Analyst | Lucé (28)
+### Boubacar Fall | Data Analyst
 
 **Portfolio pour les offres APEC Data Analyst**
 
-🎯 Objectif: EDF / SNCF / Centre-Val de Loire
+🎯 Objectif: EDF / SNCF / air France /axa /banques/ etc...
 
 💻 Compétences:
 - Excel Avancé (TCD, RechercheX)
@@ -12,6 +12,6 @@
 - Python
 - GitHub
 
-📍 Lucé (28) - Disponible immédiatement
+📍  - Disponible immédiatement
 
 > De zéro à Data Analyst APEC
