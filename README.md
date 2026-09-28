@@ -4,7 +4,7 @@
 
 **Portfolio pour les offres APEC Data Analyst**
 
-🎯 Objectif: EDF / SNCF / air France /axa /banques/ etc...
+🎯 Objectif: EDF / SNCF / AIR FRANCE /AXA /BANDUES/ etc...
 
 💻 Compétences:
 - Excel Avancé (TCD, RechercheX)
