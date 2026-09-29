@@ -14,4 +14,4 @@
 
 📍  - Disponible immédiatement
 
-> De zéro à Data Analyst APEC
+✨ Économiste Data Analyst | Expertise Économique au service de EDF - SNCF - AXA - Banques
