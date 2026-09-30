@@ -15,3 +15,6 @@
 📍  - Disponible immédiatement
 
 ✨ Économiste Data Analyst | Expertise Économique au service de EDF - SNCF - AXA - Banques
+**Projet 1: Taux de Chômage France 2027**
+- Outils: Excel Avancé, Power BI, Python
+- Analyse pour EDF/SNCF/AXA
