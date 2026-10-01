@@ -21,3 +21,9 @@
 **Taux de Chômage France 2027**
 - Outils: Excel Avancé, Power BI, Python
 - Pour: EDF / SNCF / AXA
+  : Analyse Bercy 2017-2028
+Sources Insee Dares Banque de France
+- Taux BCE, Chômage, Inflation
+- Python Pandas Matplotlib
+
+![Graphique Bercy 2017-2028](graph_bercy_complet_final.png) 
